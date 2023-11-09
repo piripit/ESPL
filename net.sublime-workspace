@@ -1,0 +1,242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"select"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"t",
+				"tropico"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Adminstration/OneDrive/Bureau/TP/public_html/Tp5/public_html/tp6/style00.css",
+		"/C/Users/Adminstration/OneDrive/Bureau/TP/public_html/Tp5/public_html/tp6/style.css",
+		"/C/Users/Adminstration/OneDrive/Bureau/ProjetESPL/net.css",
+		"/C/Users/Adminstration/OneDrive/Bureau/ProjetESPL/net.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/mo/dede.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/lili.py",
+		"/C/Users/Adminstration/OneDrive/Bureau/script.py",
+		"/C/Users/Adminstration/Downloads/script.py",
+		"/C/Users/Adminstration/OneDrive/Bureau/EXPERIENCE INFORMATIQUE/tp7.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/work.py",
+		"/C/Users/Adminstration/OneDrive/Bureau/INTERNET ET WEB/hello.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/INTERNET ET WEB/exercice02.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/Nouveau dossier (2)/hello.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/BASE DE PROGRAMMATION/exercice01-1.c",
+		"/C/Users/Adminstration/OneDrive/Bureau/BASE DE PROGRAMMATION/exercice05-2.c",
+		"/C/Users/Adminstration/OneDrive/Bureau/BASE DE PROGRAMMATION/exercice04-1.c",
+		"/C/Users/Adminstration/OneDrive/Bureau/BASE DE PROGRAMMATION/exercice04-2.c",
+		"/C/Users/Adminstration/OneDrive/Bureau/BASE DE PROGRAMMATION/exercice03-1.c",
+		"/C/Users/Adminstration/OneDrive/Bureau/BASE DE PROGRAMMATION/exercice03-2.c",
+		"/C/Users/Adminstration/OneDrive/Bureau/BASE DE PROGRAMMATION/exercice05-3.c",
+		"/C/Users/Adminstration/OneDrive/Bureau/BASE DE PROGRAMMATION/exercice01-1",
+		"/C/Users/Adminstration/OneDrive/Bureau/BASE DE PROGRAMMATION/exercice05-2",
+		"/C/Users/Adminstration/OneDrive/Bureau/BASE DE PROGRAMMATION/exercice05-1",
+		"/C/Users/Adminstration/OneDrive/Bureau/BASE DE PROGRAMMATION/exercice01-2.c",
+		"/C/Users/Adminstration/OneDrive/Bureau/EXPERIENCE INFORMATIQUE/style100.css",
+		"/D/analyse et modelisation/TP6/Q5.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/EXPERIENCE INFORMATIQUE/script.js",
+		"/C/Users/Adminstration/OneDrive/Bureau/MRL/Photo/exercice01.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/EXPERIENCE INFORMATIQUE/pizza.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/EXPERIENCE INFORMATIQUE/style00.css",
+		"/D/pizza.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/MRL/Photo/style02.css",
+		"/C/Users/Adminstration/OneDrive/Bureau/Nouveau dossier/exercice02.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/INTERNET ET WEB/style02.css",
+		"/C/Users/Adminstration/OneDrive/Bureau/TP/public_html/Tp5/public_html/tp6/dede.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/EXPERIENCE INFORMATIQUE/style.css",
+		"/C/Users/Adminstration/OneDrive/Bureau/TP/public_html/Tp5/public_html/tp6/script.js",
+		"/C/Users/Adminstration/OneDrive/Bureau/TP/public_html/Tp5/public_html/tp6/dom.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/TP/public_html/Tp5/public_html/tp6/jquery/style.css",
+		"/C/Users/Adminstration/OneDrive/Bureau/TP/public_html/Tp5/public_html/tp6/jquery/images (2).jpg",
+		"/C/Users/Adminstration/OneDrive/Bureau/TP/public_html/Tp5/public_html/tp6/jquery/code.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/INTERNET ET WEB/T.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/BASE DE PROGRAMMATION/TP3.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/Nouveau dossier/style03.css",
+		"/C/Users/Adminstration/OneDrive/Bureau/Nouveau dossier/exercice03[1].html",
+		"/C/Users/Adminstration/OneDrive/Bureau/Nouveau dossier/soso.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/Nouveau dossier/style02.css",
+		"/C/Users/Adminstration/OneDrive/Bureau/TP/public_html/Tp5/style03.css",
+		"/C/Users/Adminstration/OneDrive/Bureau/TP/public_html/Tp5/exercice03[1].html",
+		"/C/Users/Adminstration/OneDrive/Bureau/INTERNET ET WEB/style10.css",
+		"/C/Users/Adminstration/OneDrive/Bureau/INTERNET ET WEB/moreil.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/INTERNET ET WEB/emploi.html",
+		"/C/Users/Adminstration/AppData/Local/Microsoft/Windows/INetCache/IE/3C4F5U8P/style03[1].css",
+		"/C/Users/Adminstration/OneDrive/Bureau/INTERNET ET WEB/emploi.css",
+		"/C/Users/Adminstration/OneDrive/Bureau/INTERNET ET WEB/TENNIS.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/TP/public_html/Tp5/tennis.html",
+		"/C/Users/Adminstration/OneDrive/Bureau/INTERNET ET WEB/MRL.html",
+		"/C/Windows/System32/bash.exe",
+		"/C/Users/Adminstration/OneDrive/Bureau/INTERNET ET WEB/site (2)",
+		"/C/Users/Adminstration/OneDrive/Bureau/BASE DE PROGRAMMATION/style.css"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "net.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
