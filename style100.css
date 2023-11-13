@@ -1,5 +1,5 @@
 .box{
-	background-color:red;
+	background-color:greenyellow;
 	position:fixed;
 	overflow: hidden;
 	width:100%;
@@ -19,12 +19,12 @@ html{
 	),
 	linear-gradient(
 		90deg,
-		skyblue,
+		blue,
 		transparent
 	),
 	linear-gradient(
 		-90deg,
-		skyblue,
+		blue,
 		transparent
 	);
 	background-attachment: fixed;
